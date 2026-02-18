@@ -8,30 +8,35 @@ AI & ML-focused Computer Science undergraduate building intelligent workflows, A
 
 # About Me
 
-**Currently Working On:**  
-Building Python-based AI/ML projects, experimenting with Machine Learning models in VS Code & Jupyter Notebook, and developing intelligent workflows that automate real-world processes.
+## Focus
+- Building Python-based AI/ML projects  
+- Experimenting with ML models in VS Code & Jupyter  
+- Developing intelligent workflow automation systems  
 
-**Core Interest:**  
-Artificial Intelligence & Machine Learning designing data-driven systems capable of learning, reasoning, and intelligent decision-making.
+## Core Domain
+Artificial Intelligence & Machine Learning  
+Designing data-driven systems capable of learning, reasoning, and intelligent decision-making.
 
-**Open to Collaborate On:**  
-AI/ML applications, AI agents, workflow automation systems, and scalable intelligent solutions with real-world impact.
+## Collaboration & Growth
+- Open to AI/ML applications, AI agents, and automation systems  
+- Exploring scalable intelligent solutions  
+- Seeking guidance in advanced ML, AI agent architecture, and system design  
 
-**Seeking Guidance In:**  
-Advanced Machine Learning techniques, AI agent architecture, system design principles, and performance-optimized algorithm development.
+## Currently Strengthening
+- Data Structures & Algorithms  
+- Machine Learning fundamentals  
+- Applied ML experimentation  
+- Scalable automation frameworks
+- Aspiring ML, DL, NLP, GenAI, Deployement
 
-**Currently Learning:**  
-Data Structures & Algorithms, Machine Learning fundamentals, applied ML experimentation, and scalable automation frameworks.
+## Philosophy
+> Continuous improvement building systems that think, adapt, and solve meaningful problems💕
 
-**Ask Me About:**  
-Python development, ML experimentation in Jupyter, AI-driven automation, DSA strategies, and structured tech learning.
 
-**Personal Philosophy:** 
-Focused on continuous improvement building systems that think, adapt, and solve meaningful problems**🔥**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chidatma-patel-473517371)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibest_chidatma__)
@@ -40,7 +45,7 @@ Focused on continuous improvement building systems that think, adapt, and solve 
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ###  AI / Machine Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,6 +54,7 @@ Focused on continuous improvement building systems that think, adapt, and solve 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ###  Data Visualization
@@ -63,8 +69,24 @@ Focused on continuous improvement building systems that think, adapt, and solve 
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ###  Programming
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+###  Other Skills
+![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Framer](https://img.shields.io/badge/framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Cisco](https://img.shields.io/badge/cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/openapi-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ---
 
