@@ -36,6 +36,33 @@ Designing data-driven systems capable of learning, reasoning, and intelligent de
 
 ---
 
+Although I did not begin with prior technical knowledge, I approached my responsibilities with a strong willingness to learn and grow.
+
+### Proactive Learning
+
+Even without prior technical experience, I proactively learned and contributed to the best of my capability.
+
+I actively sought knowledge and guidance.  
+I invested time in understanding technical concepts.  
+I applied newly learned skills to practical tasks.
+
+### Commitment and Adaptability
+
+Though new to the technical aspects, I remained committed, adaptable, and solution oriented.
+
+I maintained dedication to team goals.  
+I adapted quickly to technical challenges.  
+I focused on finding effective solutions.
+
+## Key Strengths
+
+Strong-hand in Coding
+Strong willingness to learn  
+Adaptability in new environments  
+Positive and solution focused mindset  
+Commitment to delivering quality work
+
+
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chidatma-patel-473517371)
